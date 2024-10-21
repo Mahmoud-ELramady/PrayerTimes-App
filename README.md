@@ -13,11 +13,13 @@ This is an app used to know Prayer times and Qibla directions based on Gyroscope
 
 
 
-## APK
+## Download APK
 https://drive.google.com/file/d/1w62CHIhH9Hr0oKphSCFKgnVwFyvB263b/view?usp=sharing
 
+## Test
 https://github.com/user-attachments/assets/7c7731b9-e1ea-4c86-ba82-eeb949fd9131
 
+https://github.com/user-attachments/assets/d3039ddd-7edc-4334-b10b-e56ab84b755b
 
 ## Contact
 
