@@ -5,9 +5,11 @@
 This is an app used to know Prayer times and Qibla directions based on Gyroscope
 
 ## Preview
-<p align="center"> 
-<img src="https://github.com/user-attachments/assets?width=100/85ac095e-fa1d-4842-9d22-cfd9fc377ee6.png" width="125" height="258"/>
+<p align="left"> 
+<img src="https://github.com/user-attachments/assets/d8a24f58-3d1d-4e44-a52c-4f3f16c2795c" width="120" height="258"/>
+<video src="https://github.com/user-attachments/assets/7c7731b9-e1ea-4c86-ba82-eeb949fd913" width="120" height="258"/>
 
+  
 </p>
 
 
